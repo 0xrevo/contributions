@@ -4,7 +4,6 @@
   <tr>
     <td><img width="50" src="https://user-images.githubusercontent.com/38981255/201691739-df61f26e-5c05-46b5-8ce6-0981a6615d60.PNG" alt="Gitopia"></td>
     <td>Gitopia</td>
-    <td>Explorer:</td>
     <td>https://explorer.gitopia.com/validators/gitopiavaloper1xddreez25kl6tyxw7650kju8v2uzxyd4x8wx3z</td>
    </tr>
    <tr>
