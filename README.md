@@ -2,7 +2,7 @@
 ### my project validates
 <table>
   <tr>
-    <td><img width="50" src="https://user-images.githubusercontent.com/38981255/201691739-df61f26e-5c05-46b5-8ce6-0981a6615d60.png" alt="Gitopia"></td>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" alt="Gitopia"></td>
     <td>Gitopia</td>
     <td>https://explorer.gitopia.com/validators/gitopiavaloper1xddreez25kl6tyxw7650kju8v2uzxyd4x8wx3z</td>
    </tr>
@@ -12,7 +12,7 @@
     <td>https://nibiru.explorers.guru/validator/nibivaloper1qaqsslknv26hx9s43tmt80e5pkdjss0ral57ny</td>
    </tr>
    <tr>
-    <td><img width="50" src="https://user-images.githubusercontent.com/38981255/200131380-6f87a774-fde7-43ce-b2df-9f1eb3ab3158.jpg" alt="Loyal"></td>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1587876476166328324/qIdvDEqz_400x400.jpg" alt="Loyal"></td>
     <td>Loyal</td>
     <td>https://explorer.nodestake.top/loyal-testnet/staking/loyalvaloper1zum8p75hcuxeh2aj3z5qj76u200mm4tu87lv2j</td>
    </tr>
