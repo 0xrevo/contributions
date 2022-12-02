@@ -21,28 +21,28 @@
 ## participating in following testnets live
 <table>
   <tr>
-    <td><img width="50" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/r2iykwnuyvhxsusfphy2" alt="Deinfra"></td>
+    <td><img width="50" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/r2iykwnuyvhxsusfphy2" alt="DEINFRA"></td>
     <td>Deinfra</td>
   </tr>
   <tr>
-    <td><img width="50" src="" alt=""></td>
-    <td> </td>
+    <td><img width="50" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEGyxTVEOmxVw/company-logo_200_200/0/1637483313313?e=2147483647&v=beta&t=xQokldPhblxsOdrBtv5mlIjR874oeMYRBdrmg7OVe3E" alt="Inery"></td>
+    <td>INERY</td>
   </tr>
   <tr>
-    <td><img width="50" src="" alt=""></td>
-    <td> </td>
+    <td><img width="50" src="https://user-images.githubusercontent.com/38981255/184852284-08b36261-236b-4027-bdc3-487858eb09c7.png" alt="Parastate"></td>
+    <td>Parastate</td>
   </tr>
   <tr>
-    <td><img width="50" src="" alt=""></td>
-    <td> </td>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1577353118597222400/sgCyvge-_400x400.jpg" alt="Adamnite"></td>
+    <td>ADAMNITE</td>
   </tr>
   <tr>
-    <td><img width="50" src="" alt=""></td>
-    <td> </td>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1413009918408331269/mtEQXplO_400x400.jpg" alt="Minima"></td>
+    <td>MINIMA</td>
   </tr>
   <tr>
-    <td><img width="50" src="" alt=""></td>
-    <td> </td>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1478417079355203587/ojOAFXif_400x400.jpg" alt="Dusk"></td>
+    <td>DUSK</td>
   </tr>
 <table>
 
