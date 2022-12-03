@@ -4,17 +4,17 @@
   <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" alt="Gitopia"></td>
     <td>Gitopia</td>
-    [Link explorer](https://explorer.gitopia.com/validators/gitopiavaloper1xddreez25kl6tyxw7650kju8v2uzxyd4x8wx3z)
+    <td>Link Validator : bit.ly/3OUNiAP<td>
    </tr>
    <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1556857504394526721/OyWtRrNP_400x400.jpg" alt="Nibiru"></td>
     <td>Nibiru</td>
-    <td>[Link explorer](https://nibiru.explorers.guru/validator/nibivaloper1qaqsslknv26hx9s43tmt80e5pkdjss0ral57ny)</td>
+    <td>Link explorer : bit.ly/3ET5NAW</td>
    </tr>
    <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1587876476166328324/qIdvDEqz_400x400.jpg" alt="Loyal"></td>
     <td>Loyal</td>
-    <td>[Link explorer](https://explorer.nodestake.top/loyal-testnet/staking/loyalvaloper1zum8p75hcuxeh2aj3z5qj76u200mm4tu87lv2j)</td>
+    <td>Link Validator : bit.ly/3uo5ysW</td>
    </tr>
 </table>
 
