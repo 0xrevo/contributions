@@ -4,7 +4,7 @@
   <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" alt="Gitopia"></td>
     <td>Gitopia</td>
-    <td>[Link explorer](https://explorer.gitopia.com/validators/gitopiavaloper1xddreez25kl6tyxw7650kju8v2uzxyd4x8wx3z)</td>
+    [Link explorer](https://explorer.gitopia.com/validators/gitopiavaloper1xddreez25kl6tyxw7650kju8v2uzxyd4x8wx3z)
    </tr>
    <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1556857504394526721/OyWtRrNP_400x400.jpg" alt="Nibiru"></td>
