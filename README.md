@@ -9,7 +9,7 @@
    <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1556857504394526721/OyWtRrNP_400x400.jpg" alt="Nibiru"></td>
     <td>Nibiru</td>
-    <td>Link explorer : https://bit.ly/3ET5NAW</td>
+    <td>Link Validator : https://bit.ly/3ET5NAW</td>
    </tr>
    <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1587876476166328324/qIdvDEqz_400x400.jpg" alt="Loyal"></td>
