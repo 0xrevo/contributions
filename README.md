@@ -50,6 +50,11 @@
     <td>DUSK</td>
     <td>https://twitter.com/DuskFoundation</td>
   </tr>
+  <tr>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1486712389777068043/tXqjiR3t_400x400.jpg" alt="Exorde"></td>
+    <td>ExordeK</td>
+    <td>https://twitter.com/ExordeLabs</td>
+  </tr>
 <table>
 
 
