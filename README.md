@@ -52,8 +52,18 @@
   </tr>
   <tr>
     <td><img width="50" src="https://pbs.twimg.com/profile_images/1486712389777068043/tXqjiR3t_400x400.jpg" alt="Exorde"></td>
-    <td>ExordeK</td>
+    <td>Exorde</td>
     <td>https://twitter.com/ExordeLabs</td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1564267232343068672/6rIncPSK_400x400.jpg" alt="qchain"></td>
+    <td>Q Blockchain</td>
+    <td>https://twitter.com/QBlockchain</td>
+  </tr>
+  <tr>
+    <td><img width="50" src="https://pbs.twimg.com/profile_images/1598164753561665536/nAeNDJ2O_400x400.png" alt="Fleek ⚡️"></td>
+    <td>Fleek ⚡️</td>
+    <td>https://twitter.com/fleekxyz</td>
   </tr>
 <table>
 
